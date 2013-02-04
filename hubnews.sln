@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hubnews", "hubnews\hubnews.csproj", "{FD62D6D3-EECD-4E59-A6E4-02084FEBA243}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD62D6D3-EECD-4E59-A6E4-02084FEBA243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD62D6D3-EECD-4E59-A6E4-02084FEBA243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD62D6D3-EECD-4E59-A6E4-02084FEBA243}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FD62D6D3-EECD-4E59-A6E4-02084FEBA243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD62D6D3-EECD-4E59-A6E4-02084FEBA243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD62D6D3-EECD-4E59-A6E4-02084FEBA243}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
